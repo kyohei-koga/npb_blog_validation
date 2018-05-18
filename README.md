@@ -1,0 +1,1 @@
+# npb_blog_validation
